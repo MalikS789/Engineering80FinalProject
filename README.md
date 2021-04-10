@@ -16,7 +16,7 @@ A group project assigned By Sparta Global to create a 3-tier application that ac
 For security reasons, the application.properties file needed for the database connection to work is not included with this project,
 but you can easily add the file with the following inside:
 
-<li>spring.datasource.url=jdbc:mysql:// <i> where the MySQL database is hosted </i> /onetoonetracker</li>
+<li>spring.datasource.url=jdbc:mysql:// <i> where the MySQL database is hosted </i>/1_to_1_tracker</li>
 <li>spring.datasource.username= <i> insert username </i></li>
 <li>spring.datasource.password= <i> insert password </i></li>
 
